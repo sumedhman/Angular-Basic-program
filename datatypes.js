@@ -1,0 +1,14 @@
+var x = 10;
+var y = 12.34;
+var z = 3.14;
+var a = "Welcome";
+var b = 'Welcome';
+var c = "Welcome";
+var flag = true;
+console.log(x);
+console.log(y);
+console.log(z);
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(flag);

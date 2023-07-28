@@ -1,0 +1,10 @@
+var username = "Srikanth";
+var age = 32;
+var msg = 'Hello ' + username + " your age is: " + (age + 1) + ' in next year';
+var anotherMsg = "Hello ".concat(username, " your age is: ").concat(age + 1, " in next year");
+var job = "  Trainer   ";
+console.log(job.toUpperCase());
+console.log(job.toLowerCase());
+console.log(job.trim());
+console.log(msg);
+console.log(anotherMsg);
